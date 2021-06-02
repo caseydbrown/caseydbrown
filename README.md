@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **containerizing legacy applications**
 
-- 👯 I’m looking to collaborate on **when I get the chance**
-
-- 🤝 I’m looking for help with **my life**
-
 - 💬 Ask me about **anything!**
 
 
