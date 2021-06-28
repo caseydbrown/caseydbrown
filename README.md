@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Casey (he/him)</h1>
 <h3 align="center">A software engineer living in the PNW!</h3>
 
-- 🔭 I’m currently working on **a lot**
+- 🔭 I’m currently working on **company wide DevOps, wrangling guidelines and best practices for non-developer workflows, automating everything I see**
 
-- 🌱 I’m currently learning **containerizing legacy applications**
+- 🌱 I’m currently learning **containerizing legacy applications, Terraform to reduce my time to a working solution, and how to control scope creep**
 
 - 💬 Ask me about **anything!**
 
